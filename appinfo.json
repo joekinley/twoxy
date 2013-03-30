@@ -1,0 +1,9 @@
+{
+	"id": "de.elcoino.twoxy",
+	"version": "1.0.0",
+	"vendor": "Elcoino",
+	"type": "web",
+	"main": "index.html",
+	"title": "Twoxy",
+	"icon": "icon.png"
+}

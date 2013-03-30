@@ -1,0 +1,21 @@
+.twoxyDot {
+	position: absolute;
+	width: 42px;
+	height: 52px;
+}
+
+.highscore {
+	color: #00C800;
+	clear: both;
+	height: 25px;
+}
+
+.highscore .label {
+	text-align: left;
+	float: left;
+}
+
+.highscore .score {
+	text-align: right;
+	float: right;
+}
